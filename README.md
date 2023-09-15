@@ -35,7 +35,7 @@ Aqui estão alguns dos projetos em que trabalhei recentemente:
 Você pode entrar em contato comigo em:
 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ant%C3%B3nio-rodrigues-43263b214/)
- [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](AntonioR.Developer@gmail.com)
+ [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:AntonioR.Developer@gmail.com)
 <!--
 ## Interesses 🌐
 
