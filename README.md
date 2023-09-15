@@ -7,7 +7,7 @@ Tenho experiência em várias tecnologias da web e estou sempre buscando aprende
 ## Habilidades 🚀
 
 - Linguagens de programação: JavaScript, HTML, CSS
-- Frameworks: ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+- Biblioteca: ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 - Banco de dados: MySQL, MongoDB
 - Ferramentas de Desenvolvimento: VS Code, Git
 - Outras habilidades: Design de Interface de Usuário (UI) 🎨, Design Responsivo 📱, SEO 🌐
