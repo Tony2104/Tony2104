@@ -6,11 +6,21 @@ Tenho experiência em várias tecnologias da web e estou sempre buscando aprende
 
 ## Habilidades 🚀
 
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+<!--
 - Linguagens de programação: JavaScript, HTML, CSS
-- Biblioteca: ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+- Biblioteca: 
 - Banco de dados: MySQL, MongoDB
 - Ferramentas de Desenvolvimento: VS Code, Git
-<!--
+
 ## Projetos Destacados 🌟
 
 Aqui estão alguns dos projetos em que trabalhei recentemente:
